@@ -1,4 +1,4 @@
-# nb2pdf_agent — Jupyter Notebook → Professional PDF Report
+# pdf_agent — Jupyter Notebook → Professional PDF Report
 
 Convert any `.ipynb` Jupyter Notebook into a polished, ready-to-submit PDF lab
 report — with syntax-highlighted code, formatted markdown, styled output blocks,
